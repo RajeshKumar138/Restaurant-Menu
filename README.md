@@ -1,3 +1,4 @@
+[click here to open the preview](https://rajeshkumar138.github.io/Restaurant-Menu/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
